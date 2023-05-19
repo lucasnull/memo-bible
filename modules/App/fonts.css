@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "DMMono";
+  src: url(/fonts/DMMono.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url(/fonts/Poppins.ttf) format("truetype");
+}
